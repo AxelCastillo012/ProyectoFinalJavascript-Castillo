@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Spaghetti-Lucchetti",
+            "price": 100,
+            "image": "assets/images/producto1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Puré de tomate-Arcor",
+            "price": 150,
+            "image": "assets/images/producto2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Leche-Ilolay",
+            "price": 200,
+            "image": "assets/images/producto3.jpg"
+        }
+    ]
+}
